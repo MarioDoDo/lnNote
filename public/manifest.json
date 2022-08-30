@@ -1,0 +1,128 @@
+{
+  "name": "lnNote",
+  "short_name": "lnNote",
+  "description": "Lightning asset manager",
+  "categories": [
+    "lightning",
+    "bitcoin",
+    "nfc",
+    "wallet",
+    "lnurl"
+  ],
+  "start_url": "/#/home",
+  "scope": "/#/",
+  "icons": [
+    {
+      "src": "/assets/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add from nfc",
+      "url": "/#/nfc",
+      "description": "Add new record from nfc tag",
+      "icons": [
+        {
+          "src": "/assets/nfc.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Add from qr",
+      "url": "/#/qr",
+      "description": "Add new record from qr code",
+      "icons": [
+        {
+          "src": "/assets/qr.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Add manually",
+      "url": "/#/manual",
+      "description": "Add new record manually",
+      "icons": [
+        {
+          "src": "/assets/manual.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "New Lnurl",
+      "url": "/#/new/trusted/lnurlw",
+      "description": "Create new lnurl",
+      "icons": [
+        {
+          "src": "/assets/add.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    }
+  ],
+  "screenshots" : [
+    {
+      "src": "/assets/homeScreen.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "platform": "narrow",
+      "label": "Home screen"
+    },
+    {
+      "src": "/assets/newScreen.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "platform": "narrow",
+      "label": "Create new LNURL screen"
+    },
+    {
+      "src": "/assets/writeScreen.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "platform": "narrow",
+      "label": "Write record to NFC tag screen"
+    },
+    {
+      "src": "/assets/shortScreen.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "platform": "narrow",
+      "label": "LNURL shorter screen"
+    }
+  ],
+  "theme_color": "#1f1f1f",
+  "background_color": "#1f1f1f",
+  "display": "standalone",
+  "orientation": "portrait"
+}
