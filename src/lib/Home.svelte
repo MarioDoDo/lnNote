@@ -4,7 +4,6 @@
     import Menu from "./Menu.svelte";
 
     let filter = "all";
-    localStorage.clear()
 </script>
 <main class="bg-base">
     <div class="absolute top-5 left-5">
