@@ -1,5 +1,5 @@
 # lnNote
-<img src="logo.svg" alt="drawing" width="50"/>
+<img src="dist/logo.svg" alt="drawing" width="50"/>
 Manager for all your lightning network records
 
 ## Futures
@@ -7,4 +7,10 @@ Manager for all your lightning network records
 - import from nfc/qr code
 - generate LNURL in the app
 - LNURL decoder and shorter
+
+### Screenshots
+<img src="dist/assets/homeScreen.jpg" alt="Home Screen" width="200"/>
+<img src="dist/assets/newScreen.jpg" alt="Home Screen" width="200"/>
+<img src="dist/assets/shortScreen.jpg" alt="Home Screen" width="200"/>
+<img src="dist/assets/writeScreen.jpg" alt="Home Screen" width="200"/>
 
