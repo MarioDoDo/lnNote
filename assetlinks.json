@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "tech.mariodd.lnnote.twa",
+                     "sha256_cert_fingerprints": ["9E:E8:D2:3A:3B:A6:8F:17:53:89:94:59:41:6B:8C:E8:52:E8:06:73:F4:36:3A:65:25:4B:4A:6A:0C:4E:C8:74"] }
+      }
+]
