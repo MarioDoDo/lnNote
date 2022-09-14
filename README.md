@@ -3,7 +3,7 @@
 <img src="dist/logo.svg" alt="drawing" width="50"/>
 Manager for all your lightning network records
 
-## Futures
+## Features
 
 - write LNURL record directly on the nfc tag (create lightning payment card)
 - import from nfc/qr code
