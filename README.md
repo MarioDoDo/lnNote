@@ -19,3 +19,4 @@ Manager for all your lightning network records
 <img src="dist/assets/writeScreen.jpg" alt="Home Screen" width="200"/>
 </div>
 
+logo by <a href="https://github.com/houmreu">@houmreu</a>
