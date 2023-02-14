@@ -1,7 +1,7 @@
 <script>
     export let params = {where: "trusted", lnurl: "lnurlw"};
 
-    const backendServer = "https://qnjqpt.deta.dev/user";
+    const backendServer = "https://lnback-1-r2195379.deta.app/user";
     const appLnbits = "https://legend.lnbits.com";
 
     const trusted = () => {
